@@ -3,7 +3,7 @@
 Adapted on Aug 2015)
 (Orig created on Wed Mar 19 09:34:24 2014)
 
-@orig_author: lau
+@orig_author: lau, mads
 @author: andreas & niels christian
 @author: kousik
 """
